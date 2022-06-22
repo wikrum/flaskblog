@@ -22,7 +22,7 @@ jdcal==1.4.1
 Jinja2==2.11.2
 keyring==21.1.0
 MarkupSafe==1.1.1
-numpy==1.19.0
+numpy==1.22.0
 openpyxl==3.0.4
 pandas==1.0.5
 Pillow==7.2.0
